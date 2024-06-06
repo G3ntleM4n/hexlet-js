@@ -12,5 +12,8 @@
 	"repository": {
 		"type": "git",
 		"url": "https://github.com/G3ntleM4n/hexlet-js"
+	},
+	"dependencies": {
+		"lodash": "^4.17.21"
 	}
 }
