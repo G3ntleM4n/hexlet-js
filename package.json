@@ -1,19 +1,19 @@
 {
-	"name": "hexlet",
-	"version": "1.0.0",
-	"type": "module",
-	"description": "Мой первый проект на хекслет",
-	"main": "index.js",
-	"scripts": {
-		"test": "echo \"Error: no test specified\" && exit 1"
-	},
-	"author": "Alexander Sokolov <alexsokolov123654@mail.ru>",
-	"license": "ISC",
-	"repository": {
-		"type": "git",
-		"url": "https://github.com/G3ntleM4n/hexlet-js"
-	},
-	"dependencies": {
-		"lodash": "^4.17.21"
-	}
+  "name": "hexlet",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "Мой первый проект на хекслет",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Alexander Sokolov <alexsokolov123654@mail.ru>",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/G3ntleM4n/hexlet-js"
+  },
+  "dependencies": {
+    "lodash": "^4.17.21"
+  }
 }
